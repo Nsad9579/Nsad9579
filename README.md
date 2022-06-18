@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **many things**
 
-- 🌱 I’m currently learning **space medicine , data-driven clinical decision making systems**
+- 🌱 I’m currently learning **space medicine and data-driven clinical decision making systems**
 
 - 👯 I’m looking to collaborate on **digital health and global health problems**
 
