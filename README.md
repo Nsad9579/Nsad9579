@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **nsad9579@gmail.com**
 
+``` in search of the pain... ```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@najmehsadeghian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@najmehsadeghian" height="30" width="40" /></a>
