@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Najmeh Sadeghian</h1>
-<h3 align="center">An AI enthusiast from Iran</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center"> AI enthusiast </h3>
 
 - 🔭 I’m currently working on **many things but most my Ethics project**
 
