@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center"> AI enthusiast </h3>
+<h3 align="center">an AI enthusiast from Iran </h3>
 
 - 🔭 I’m currently working on **many things but most my Ethics project**
 
