@@ -1,19 +1,6 @@
 <h1 align="center"> 👋</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **many things but most my Ethics project**
-
-- 🌱 I’m currently learning **global health and data-driven clinical decision making systems**
-
-- 👯 I’m looking to collaborate on **digital health and global health problems**
-
-- 🤝 I’m looking for help with **my ASORs project**
-
-- 📝 I regularly write articles on [https://medium.com/@Najmeh2000](https://medium.com/@Najmeh2000)
-
-- 📫 How to reach me **nsad9579@gmail.com**
-
-``` in search of the pain... ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
